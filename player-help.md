@@ -2,8 +2,8 @@
 Contains help for important player issues.
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>Internet issues/ping issues</summary>
 
-YOUR TABLE
+https://www.youtube.com/watch?v=77YP1lmA6e0
 
 </details>
