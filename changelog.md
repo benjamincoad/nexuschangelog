@@ -1,6 +1,6 @@
 # Nexus Changelog
-Changelog repository for the Nexus Minecraft server.
-#
+> Changelog repository for the Nexus Minecraft server.
+---
 <details>
 <summary>Version 2.1.0</summary>
 
